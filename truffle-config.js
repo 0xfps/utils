@@ -5,6 +5,9 @@ module.exports = {
       port: 8545,
       network_id: "*", // Match any network id
       gas: 5000000
+    },
+    ens: {
+	enabled: true
     }
   },
   compilers: {
@@ -15,9 +18,9 @@ module.exports = {
           enabled: true, // Default: false
           runs: 200      // Default: 200
         },
-		remappings: [
-			// "@openzeppelin=./node_modules/@openzeppelin"
-		],
+	remappings: [
+		// "@openzeppelin=./node_modules/@openzeppelin"
+	],
       }
     }
   }
@@ -30,3 +33,4 @@ module.exports = {
 // https://github.com/omgnetwork/plasma-contracts/issues/190
 // https://github.com/trufflesuite/truffle/issues/2355
 // https://github.com/eth-brownie/brownie/issues/893
+// https://www.quicknode.com/guides/web3-sdks/how-to-generate-a-new-ethereum-address-in-javascript
