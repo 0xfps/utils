@@ -17,7 +17,7 @@ console.log(`SAVE BUT DO NOT SHARE THIS: ${privateKey} \n`)
 const wallet = new ethersAddress.Wallet(privateKey)
 console.log(`API Address @ ${wallet.address} \n`)
 
-// Deploy the OdeleWallet contract
+// Deploy the contract
 async function main() {
   // const [deployer] = await ethers.getSigners();
   // This will crash with require("ethers") so a new variable, ethersAddress was set so as to get a valid wallet address.
