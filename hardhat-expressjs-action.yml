@@ -1,0 +1,21 @@
+name: Compile Contracts
+on: [push, pull_request]
+env:
+  PRIVATE_KEY: ${{ secrets.PRIVATE_KEY}}
+jobs:
+  Compile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - run: npm install -g ganache-cli
+      - run: npm install --save-dev hardhat
+      - run: npm install ethers
+      - run: npm install crypto
+      - run: npm install express
+      - run: npm install @nomiclabs/hardhat-waffle
+      - run: npx hardhat compile
+      # To run expressJS index.js file
+      - run: node .
