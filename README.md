@@ -1,2 +1,6 @@
 # utils
-Just some random functions and contract states.
+A collection of:
+- Random functions.
+- Random Contract states.
+- Language how-to's.
+- More.
