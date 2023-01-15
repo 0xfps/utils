@@ -14,3 +14,4 @@ A collection of:
 - [A Practical Introduction To Solidity Assembly: Part 2.](https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/Hh69VJWM5eiFYFINxYWrIYWcRRtPm8tw3VFjpdpx6T8)
 - [Solidity Tutorial : all about Assembly.](https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c)
 - [Advanced Solidity: Yul and Assembly.](https://www.udemy.com/course/advanced-solidity-yul-and-assembly/)
+- [Understanding Ethereum Smart Contract Storage.](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/)
