@@ -9,3 +9,5 @@ A collection of:
 - [Deploy Node API (Express Typescript) on Vercel.](https://dev.to/tirthpatel/deploy-node-ts-express-typescript-on-vercel-284h)
 - [Interacting With Smart Contracts Using Web3.js (Part I).](https://medium.com/0xcode/interacting-with-smart-contracts-using-web3-js-34545a8a1ebd)
 - [Interacting With Smart Contracts Using Web3.js (Part II).](https://medium.com/0xcode/interacting-with-smart-contracts-using-web3-js-part-ii-c1ef7566d1c5)
+- [A Practical Introduction To Solidity Assembly: Part 1.](https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/PpA5KdQhrE_2Bf-USfKePROJ5tE-raL7_VGBR8HE39E)
+- [A Practical Introduction To Solidity Assembly: Part 2.](https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/Hh69VJWM5eiFYFINxYWrIYWcRRtPm8tw3VFjpdpx6T8)
