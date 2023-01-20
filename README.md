@@ -5,7 +5,7 @@ A collection of:
 - Language how-to's.
 - More.
 
-## A list of important websites.
+## A list of important websites & articles.
 - [Deploy Node API (Express Typescript) on Vercel.](https://dev.to/tirthpatel/deploy-node-ts-express-typescript-on-vercel-284h)
 - [Interacting With Smart Contracts Using Web3.js (Part I).](https://medium.com/0xcode/interacting-with-smart-contracts-using-web3-js-34545a8a1ebd)
 - [Interacting With Smart Contracts Using Web3.js (Part II).](https://medium.com/0xcode/interacting-with-smart-contracts-using-web3-js-part-ii-c1ef7566d1c5)
@@ -15,3 +15,4 @@ A collection of:
 - [Solidity Tutorial : all about Assembly.](https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c)
 - [Advanced Solidity: Yul and Assembly.](https://www.udemy.com/course/advanced-solidity-yul-and-assembly/)
 - [Understanding Ethereum Smart Contract Storage.](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/)
+- [Stack Machines: Fundamentals. [_Aug 28th, 2013_]](https://igor.io/2013/08/28/stack-machines-fundamentals.html)
