@@ -16,3 +16,5 @@ A collection of:
 - [Advanced Solidity: Yul and Assembly.](https://www.udemy.com/course/advanced-solidity-yul-and-assembly/)
 - [Understanding Ethereum Smart Contract Storage.](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/)
 - [Stack Machines: Fundamentals. [_Aug 28th, 2013_]](https://igor.io/2013/08/28/stack-machines-fundamentals.html)
+- [An Ethereum Virtual Machine Opcodes Interactive Reference.](https://www.evm.codes)
+- [List of all EVM Opcodes from Solidity Yul Docs.](https://docs.soliditylang.org/en/v0.6.2/yul.html#evm-dialect)
