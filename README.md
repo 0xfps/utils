@@ -29,7 +29,7 @@ function arrLocation(uint256 slot, uint256 index, uint256 elementSize)
 /// THIS IS WRONG!!!
 
 /// THIS IS CORRECT!!!
-function arrLocation(uint256 slot, uint256 index, uint256 elementSize)
+function arrLocation(uint256 slot, uint256 index)
     public
     pure
     returns (uint256)
