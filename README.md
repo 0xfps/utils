@@ -15,6 +15,29 @@ A collection of:
 - [Solidity Tutorial : all about Assembly.](https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c)
 - [Advanced Solidity: Yul and Assembly.](https://www.udemy.com/course/advanced-solidity-yul-and-assembly/)
 - [Understanding Ethereum Smart Contract Storage.](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/)
+```solidity
+/// A LITTLE CORRECTION FROM THE ABOVE ARTICLE ON ARRAY STORAGE LOCATION.
+
+/// THIS IS WRONG!!!
+function arrLocation(uint256 slot, uint256 index, uint256 elementSize)
+    public
+    pure
+    returns (uint256)
+{
+    return uint256(keccak256(slot)) + (index * elementSize);
+}
+/// THIS IS WRONG!!!
+
+/// THIS IS CORRECT!!!
+function arrLocation(uint256 slot, uint256 index, uint256 elementSize)
+    public
+    pure
+    returns (uint256)
+{
+    return uint256(keccak256(slot)) + (index);
+}
+/// THIS IS CORRECT!!!
+```
 - [Stack Machines: Fundamentals. [_Aug 28th, 2013_]](https://igor.io/2013/08/28/stack-machines-fundamentals.html)
 - [An Ethereum Virtual Machine Opcodes Interactive Reference.](https://www.evm.codes)
 - [A list of all EVM Opcodes from Solidity Yul Docs.](https://docs.soliditylang.org/en/v0.6.2/yul.html#evm-dialect)
