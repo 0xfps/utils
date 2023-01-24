@@ -10,9 +10,7 @@ A collection of:
 ### Solidity
 - [Understanding Ethereum Smart Contract Storage.](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/)
 ```solidity
-/// A LITTLE CORRECTION FROM THE ABOVE ARTICLE ON ARRAY STORAGE LOCATION.
-
-/// THIS IS WRONG!!!
+/// ARRAY STORAGE IN MEMORY LOCATION.
 function arrLocation(uint256 slot, uint256 index, uint256 elementSize)
     public
     pure
@@ -20,9 +18,8 @@ function arrLocation(uint256 slot, uint256 index, uint256 elementSize)
 {
     return uint256(keccak256(slot)) + (index * elementSize);
 }
-/// THIS IS WRONG!!!
 
-/// THIS IS CORRECT!!!
+/// ARRAY STORAGE IN STORAGE LOCATION.
 function arrLocation(uint256 slot, uint256 index)
     public
     pure
@@ -30,7 +27,6 @@ function arrLocation(uint256 slot, uint256 index)
 {
     return uint256(keccak256(slot)) + (index);
 }
-/// THIS IS CORRECT!!!
 ```
 - [Stack Machines: Fundamentals. [_Aug 28th, 2013_]](https://igor.io/2013/08/28/stack-machines-fundamentals.html)
 - [An Ethereum Virtual Machine Opcodes Interactive Reference.](https://www.evm.codes)
