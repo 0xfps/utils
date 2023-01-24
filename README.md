@@ -10,15 +10,6 @@ A collection of:
 ### Solidity
 - [Understanding Ethereum Smart Contract Storage.](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/)
 ```solidity
-/// ARRAY STORAGE IN MEMORY LOCATION.
-function arrLocation(uint256 slot, uint256 index, uint256 elementSize)
-    public
-    pure
-    returns (uint256)
-{
-    return uint256(keccak256(slot)) + (index * elementSize);
-}
-
 /// ARRAY STORAGE IN STORAGE LOCATION.
 function arrLocation(uint256 slot, uint256 index)
     public
