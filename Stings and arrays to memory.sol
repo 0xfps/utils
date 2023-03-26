@@ -4,18 +4,29 @@ pragma solidity 0.8.19;
 contract CalledContract {
     bytes32 public pub;
     string public str;
+    bool public isTrue;
+
+    function getStr() public view returns(bytes32 r) {
+        assembly {
+            r := sload(str.slot)
+        }
+    }
 
     function setNumber(string memory s) external {
         uint8 l = uint8(bytes(s).length);
         require(l < 32);
         bytes32 f = bytes32(bytes(s));
+        uint8 t;
         assembly {
             mstore(0x00, f)
-            mstore(0x20, l)
+            mstore(0x20, mul(l, 2))
             let st := or(mload(0x00), mload(0x20))
             sstore(1, st)
+            t := eq(sload(1), sload(2))
             // t := sload(1)
         }
+
+        if (t == 1) isTrue = true;
     }
 }
 
