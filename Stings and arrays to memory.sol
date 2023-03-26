@@ -90,5 +90,16 @@ contract CallerContract {
             return(0x00, 0xa0)
         }
     }
+
+    function getStringAndUintFromMemory() public view returns (string memory, uint256) {
+        assembly {
+            mstore(0x00, 0x40)
+            mstore(0x20, 0x05)
+            mstore(0x40, 0x20)
+            mstore(0x60, 0x5468697320737472696e6720697320776179206f766572203332206368617261)
+
+            return(0x00, 0x80)
+        }
+    }
 }
 // This strin g is way o ver 32 cha racters I  guess. I'm  not kiddi n
