@@ -17,7 +17,7 @@ contract SafeWhitelist {
         if ((counter + len) > LIMIT) revert();
         uint8 _counter;
 
-        for (uint8 i; i != len; i++) {
+        for (uint8 i; i != len; ++i) {
             if (whitelists[addresses[i]]) continue;
             whitelists[addresses[i]] = true;
             ++_counter;
@@ -33,7 +33,7 @@ contract SafeWhitelist {
         if (len > counter) revert();
         uint8 _counter = counter;
 
-        for (uint8 i; i != len; i++) {
+        for (uint8 i; i != len; ++i) {
             if (!whitelists[addresses[i]]) continue;
             whitelists[addresses[i]] = false;
             --_counter;
