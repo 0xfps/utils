@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.19;
 
-abstract contract SafeWhitelist {
+contract SafeWhitelist {
     uint8 private immutable LIMIT;
     uint8 public counter;
     mapping(address => bool) whitelists;
@@ -17,11 +17,10 @@ abstract contract SafeWhitelist {
         if ((counter + len) > LIMIT) revert();
         uint8 _counter;
 
-        for (uint8 i; i != len; ) {
+        for (uint8 i; i != len; i++) {
             if (whitelists[addresses[i]]) continue;
             whitelists[addresses[i]] = true;
             ++_counter;
-            unchecked { ++i; }
         }
 
         counter += _counter;
@@ -34,11 +33,10 @@ abstract contract SafeWhitelist {
         if (len > counter) revert();
         uint8 _counter = counter;
 
-        for (uint8 i; i != len; ) {
+        for (uint8 i; i != len; i++) {
             if (!whitelists[addresses[i]]) continue;
             whitelists[addresses[i]] = false;
             --_counter;
-            unchecked { ++i; }
         }
 
         counter = _counter;
