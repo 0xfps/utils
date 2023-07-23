@@ -34,6 +34,9 @@ function arrLocation(uint256 slot, uint256 index)
 - [Advanced Solidity: Yul and Assembly.](https://www.udemy.com/course/advanced-solidity-yul-and-assembly/)
 - [A list of all EVM Opcodes from Solidity Yul Docs.](https://docs.soliditylang.org/en/v0.6.2/yul.html#evm-dialect)
 
+### Integration
+- [Connect Metamask with Ethers.js](https://medium.com/@kaishinaw/connect-metamask-with-ethers-js-fc9c7163fd4d)
+
 ### Backend
 - [Deploy Node API (Express Typescript) on Vercel](https://dev.to/tirthpatel/deploy-node-ts-express-typescript-on-vercel-284h)
 - [Interacting With Smart Contracts Using Web3.js (Part I).](https://medium.com/0xcode/interacting-with-smart-contracts-using-web3-js-34545a8a1ebd)
