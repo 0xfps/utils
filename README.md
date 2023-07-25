@@ -36,6 +36,7 @@ function arrLocation(uint256 slot, uint256 index)
 
 ### Integration
 - [Connect Metamask with Ethers.js](https://medium.com/@kaishinaw/connect-metamask-with-ethers-js-fc9c7163fd4d)
+- [Switch Ethereum Chain](https://stackoverflow.com/questions/68252365/how-to-trigger-change-blockchain-network-request-on-metamask#:~:text=I%20was%20finally%20able%20to%20find%20the%20answer%3A,%2F%2F%20chainId%20must%20be%20in%20hexadecimal%20numbers%20%7D%29%3B)
 
 ### Backend
 - [Deploy Node API (Express Typescript) on Vercel](https://dev.to/tirthpatel/deploy-node-ts-express-typescript-on-vercel-284h)
