@@ -29,6 +29,9 @@ if (
     0x7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5D576E7357A4501DDFE92F46681B20A0
 ) {
     revert("ECRecover: invalid signature 's' value");
+
+if (v != 27 && v != 28) {
+    revert("ECRecover: invalid signature 'v' value");
 }
 ```
 - [Stack Machines: Fundamentals. [_Aug 28th, 2013_]](https://igor.io/2013/08/28/stack-machines-fundamentals.html)
