@@ -22,6 +22,15 @@ function arrLocation(uint256 slot, uint256 index)
     return uint256(keccak256(slot)) + (index);
 }
 ```
+
+```solidity
+if (
+    uint256(s) >
+    0x7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5D576E7357A4501DDFE92F46681B20A0
+) {
+    revert("ECRecover: invalid signature 's' value");
+}
+```
 - [Stack Machines: Fundamentals. [_Aug 28th, 2013_]](https://igor.io/2013/08/28/stack-machines-fundamentals.html)
 - [An Ethereum Virtual Machine Opcodes Interactive Reference.](https://www.evm.codes)
 - [Solidity Tutorial: All About Memory.](https://betterprogramming.pub/solidity-tutorial-all-about-memory-1e1696d71ee4)
