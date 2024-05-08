@@ -57,15 +57,16 @@ if (v != 27 && v != 28) {
 - [A list of all EVM Opcodes from Solidity Yul Docs.](https://docs.soliditylang.org/en/v0.6.2/yul.html#evm-dialect)
 
 ### Integration
-- [Connect Metamask with Ethers.js](https://medium.com/@kaishinaw/connect-metamask-with-ethers-js-fc9c7163fd4d)
-- [Switch Ethereum Chain](https://stackoverflow.com/questions/68252365/how-to-trigger-change-blockchain-network-request-on-metamask#:~:text=I%20was%20finally%20able%20to%20find%20the%20answer%3A,%2F%2F%20chainId%20must%20be%20in%20hexadecimal%20numbers%20%7D%29%3B)
+- [Connect Metamask with Ethers.js.](https://medium.com/@kaishinaw/connect-metamask-with-ethers-js-fc9c7163fd4d)
+- [Switch Ethereum Chain.](https://stackoverflow.com/questions/68252365/how-to-trigger-change-blockchain-network-request-on-metamask#:~:text=I%20was%20finally%20able%20to%20find%20the%20answer%3A,%2F%2F%20chainId%20must%20be%20in%20hexadecimal%20numbers%20%7D%29%3B)
 
 ### Backend
-- [Deploy Node API (Express Typescript) on Vercel](https://dev.to/tirthpatel/deploy-node-ts-express-typescript-on-vercel-284h)
+- [Deploy Node API (Express Typescript) on Vercel.](https://dev.to/tirthpatel/deploy-node-ts-express-typescript-on-vercel-284h)
 - [Interacting With Smart Contracts Using Web3.js (Part I).](https://medium.com/0xcode/interacting-with-smart-contracts-using-web3-js-34545a8a1ebd)
 - [Interacting With Smart Contracts Using Web3.js (Part II).](https://medium.com/0xcode/interacting-with-smart-contracts-using-web3-js-part-ii-c1ef7566d1c5)
-- [tRPC Docs](https://trpc.io)
-- [tRPC Mutations vs Queries](https://github.com/trpc/trpc/discussions/1638#discussioncomment-2341051)
+- [tRPC Docs.](https://trpc.io)
+- [tRPC Mutations vs Queries.](https://github.com/trpc/trpc/discussions/1638#discussioncomment-2341051)
+- [Deploy ExpressJS App To Azure Server.](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=linux&pivots=development-environment-vscode)
 
 ### Resume
 - [ATC Resume Scanner.](https://resumeworded.com/my-home.php)
