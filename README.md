@@ -76,3 +76,4 @@ if (v != 27 && v != 28) {
 - [Run a localhost NodeJS server on https.](https://akshitb.medium.com/how-to-run-https-on-localhost-a-step-by-step-guide-c61fde893771#:~:text=Running%20HTTPS%20on%20your%20localhost,secure%20communication%20over%20the%20internet)
 - [Run NextJS app on localhost with https.](https://vercel.com/guides/access-nextjs-localhost-https-certificate-self-signed)
 - [Run ReactJS on localhost with https.](https://www.briangetsbinary.com/react/software%20engineering/2022/09/24/react-js-configuring-localhost-ssl.html)
+- [Run ExpressJS on https.](https://stackoverflow.com/questions/11744975/enabling-https-on-express-js)
