@@ -19,3 +19,5 @@ exports.generateAddress = function (from, nonce) {
   // Only take the lower 160bits of the hash
   return exports.rlphash([from, nonce]).slice(-20)
 }
+
+// Basically, deploy all the contracts to the same chain with the same nonce and they'll all have the same address.
