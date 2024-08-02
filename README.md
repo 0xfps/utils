@@ -77,3 +77,4 @@ if (v != 27 && v != 28) {
 - [Run NextJS app on localhost with https.](https://vercel.com/guides/access-nextjs-localhost-https-certificate-self-signed)
 - [Run ReactJS on localhost with https.](https://www.briangetsbinary.com/react/software%20engineering/2022/09/24/react-js-configuring-localhost-ssl.html)
 - [Run ExpressJS on https.](https://stackoverflow.com/questions/11744975/enabling-https-on-express-js)
+- [Telegram Mini Applications.](https://medium.com/@ustsl/telegram-mini-applications-8a2602d6d4b8)
