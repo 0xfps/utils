@@ -1,0 +1,16 @@
+@layer base {
+  @font-face {
+    font-family: 'sf-light';
+    src: url(/public/fonts/SFUIText-Light.otf) format('otf');
+  }
+
+  @font-face {
+    font-family: 'sf-medium';
+    src: url(/public/fonts/SFUIText-Medium.otf) format('otf');
+  }
+
+  @font-face {
+    font-family: 'sf-bold';
+    src: url(/public/fonts/SFUIText-Bold.otf) format('otf');
+  }
+}
