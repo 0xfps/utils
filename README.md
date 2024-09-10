@@ -67,6 +67,8 @@ if (v != 27 && v != 28) {
 - [tRPC Docs.](https://trpc.io)
 - [tRPC Mutations vs Queries.](https://github.com/trpc/trpc/discussions/1638#discussioncomment-2341051)
 - [Deploy ExpressJS App To Azure Server.](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=linux&pivots=development-environment-vscode)
+- [Deploy an EC2 Instance](https://medium.com/@jeetanshu/a-step-by-step-guide-to-launching-an-ec2-instance-on-aws-530ee00ceb8)
+- [Deploy NodeJS on EC2](https://dev.to/drsimplegraffiti/from-code-to-the-cloud-a-step-by-step-guide-to-deploying-your-nodejs-app-on-aws-ec2-4300)
 
 ### Resume
 - [ATC Resume Scanner.](https://resumeworded.com/my-home.php)
