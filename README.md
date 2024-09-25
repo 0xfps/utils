@@ -71,6 +71,8 @@ if (v != 27 && v != 28) {
 - [Deploy NodeJS on EC2.](https://dev.to/drsimplegraffiti/from-code-to-the-cloud-a-step-by-step-guide-to-deploying-your-nodejs-app-on-aws-ec2-4300)
 - [Nginx SSL Issue & Set DNS To IP In Domain Name Service Provider And Check Reflection In AWS.](https://chatgpt.com/share/fbf6ae87-413a-4b06-9720-57621083daff)
 - [Using JWTs For Authentication.](https://chatgpt.com/share/66ec0c0d-63e4-800d-a14c-86adb3e16e5c)
+- [Telegram Bot Replier And URL Query Parser `?start=abc`.](https://chatgpt.com/share/66f41654-5b50-800d-8e9a-02477f0a4143)
+- [Telegram Bot Replier And URL Query Parser `?start=abc` 2.](https://chatgpt.com/share/66f4162f-8584-800d-8c0a-72393b7c9e66)
 
 ### Resume
 - [ATC Resume Scanner.](https://resumeworded.com/my-home.php)
