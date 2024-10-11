@@ -87,3 +87,6 @@ if (v != 27 && v != 28) {
 - [How To Create QR Codes With JS.](https://www.turing.com/kb/creating-qr-code-using-js)
 - [AOS with ReactJS x NextJS.](https://chatgpt.com/share/66ec0c36-a7ec-800d-99ff-d82e7f9813c8)
 - [JS Multitouch.](https://chatgpt.com/share/66fa4b90-6ef0-800d-a6fb-6fcd6f48f084)
+
+### AI
+- [AI Roadmap From ChatGPT.](https://chatgpt.com/c/6708ec61-36fc-800d-8835-679d16585142)
