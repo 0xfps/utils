@@ -77,10 +77,12 @@ if (v != 27 && v != 28) {
 ### Scaling
 - [Microservices.](https://www.geeksforgeeks.org/microservices/)
 - [Load Balancers.](https://aws.amazon.com/what-is/load-balancing/#:~:text=A%20load%20balancer%20is%20a,resource%20servers%20are%20used%20equally.)
+- [What is a Load Balancer?](https://youtu.be/sCR3SAVdyCc?si=OrlYLAqUjlxkgvd5)
+- [Load Balancers Algorithm Video.](https://www.youtube.com/watch?v=dBmxNsS3BGE&pp=ygUac2V0dGluZyB1cCBhIGxvYWQgYmFsYW5jZXI%3D)
 
 ### Resume
 - [ATC Resume Scanner.](https://resumeworded.com/my-home.php)
-- [Free Resume Review.](https://www.topresume.com/)
+- [Free Resume Review.](https://www.topresume.com/)/
 
 ### Frontend
 - [Run a localhost NodeJS server on https.](https://akshitb.medium.com/how-to-run-https-on-localhost-a-step-by-step-guide-c61fde893771#:~:text=Running%20HTTPS%20on%20your%20localhost,secure%20communication%20over%20the%20internet)
