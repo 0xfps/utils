@@ -76,6 +76,7 @@ if (v != 27 && v != 28) {
 
 ### Scaling
 - [Microservices.](https://www.geeksforgeeks.org/microservices/)
+- [Load Balancers.](https://aws.amazon.com/what-is/load-balancing/#:~:text=A%20load%20balancer%20is%20a,resource%20servers%20are%20used%20equally.)
 
 ### Resume
 - [ATC Resume Scanner.](https://resumeworded.com/my-home.php)
