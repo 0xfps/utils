@@ -8,7 +8,8 @@ A collection of:
 ## A list of important websites & articles.
 ### Tools
 [Keccak256 Online.](https://emn178.github.io/online-tools/keccak_256.html)<br>
-[String to Bytes Converter.](https://www.devoven.com/string-to-bytes32)
+[String to Bytes Converter.](https://www.devoven.com/string-to-bytes32)<br>
+[JS And The Terminal Console.](https://blog.ghoulkingr.com/reading-console-inputs-in-javascript)
 
 ### Solidity
 - [Understanding Ethereum Smart Contract Storage.](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/)
