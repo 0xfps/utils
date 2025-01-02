@@ -83,7 +83,7 @@ if (v != 27 && v != 28) {
 
 ### Resume
 - [ATC Resume Scanner.](https://resumeworded.com/my-home.php)
-- [Free Resume Review.](https://www.topresume.com/)/
+- [Free Resume Review.](https://www.topresume.com/)
 
 ### Frontend
 - [Run a localhost NodeJS server on https.](https://akshitb.medium.com/how-to-run-https-on-localhost-a-step-by-step-guide-c61fde893771#:~:text=Running%20HTTPS%20on%20your%20localhost,secure%20communication%20over%20the%20internet)
@@ -97,3 +97,7 @@ if (v != 27 && v != 28) {
 
 ### AI
 - [AI Roadmap From ChatGPT.](https://chatgpt.com/c/6708ec61-36fc-800d-8835-679d16585142)
+
+### Geth
+- [Geth.](https://geth.ethereum.org/)
+- [Clients (Execution and Consensus Clients).](https://docs.teku.consensys.io/concepts/node-types)
