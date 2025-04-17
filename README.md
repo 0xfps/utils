@@ -48,6 +48,7 @@ if (v != 27 && v != 28) {
 - [Stack Machines: Fundamentals. [_Aug 28th, 2013_]](https://igor.io/2013/08/28/stack-machines-fundamentals.html)
 - [An Ethereum Virtual Machine Opcodes Interactive Reference.](https://www.evm.codes)
 - [Solidity Tutorial: All About Memory.](https://betterprogramming.pub/solidity-tutorial-all-about-memory-1e1696d71ee4)
+- [Deploying Solidity to Solana](https://dev.to/shivamsspirit/minting-fungible-tokens-in-solana-using-solidity-solang-programming-language-50i6)
 
 ### Assembly
 - [A Practical Introduction To Solidity Assembly: Part 0.](https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/nk40v2MJKSHXXNSlbqqhpwJf4MtZ9V2Vp8P_bSNwjYc)
