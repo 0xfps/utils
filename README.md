@@ -51,6 +51,7 @@ if (v != 27 && v != 28) {
 - [Deploying Solidity to Solana.](https://dev.to/shivamsspirit/minting-fungible-tokens-in-solana-using-solidity-solang-programming-language-50i6)
 - [Deploying Solidity to Solana 2.](https://medium.com/@jaiapp/solana-smart-contracts-can-now-be-written-in-solidity-thanks-to-new-tool-f3cfb18a2061)
 - [Deploying Solidity to Solana 3 (Neon EVM).](https://www.quicknode.com/guides/solana-development/solidity/neon-solidity-get-started)
+- [EIP 5792, Batched MultiTransactions.](https://www.eip5792.xyz/introduction)
 
 ### Assembly
 - [A Practical Introduction To Solidity Assembly: Part 0.](https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/nk40v2MJKSHXXNSlbqqhpwJf4MtZ9V2Vp8P_bSNwjYc)
