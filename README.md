@@ -106,3 +106,6 @@ if (v != 27 && v != 28) {
 ### Geth
 - [Geth.](https://geth.ethereum.org/)
 - [Clients (Execution and Consensus Clients).](https://docs.teku.consensys.io/concepts/node-types)
+
+## Others
+- [VS Code Profile.](https://vscode.dev/editor/profile/github/55c928f4dfd86ab1e14b3560ef1c70cb)
