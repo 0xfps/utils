@@ -79,6 +79,7 @@ if (v != 27 && v != 28) {
 - [Using JWTs For Authentication.](https://chatgpt.com/share/66ec0c0d-63e4-800d-a14c-86adb3e16e5c)
 - [Telegram Bot Replier And URL Query Parser `?start=abc`.](https://chatgpt.com/share/66f41654-5b50-800d-8e9a-02477f0a4143)
 - [Telegram Bot Replier And URL Query Parser `?start=abc` 2.](https://chatgpt.com/share/66f4162f-8584-800d-8c0a-72393b7c9e66)
+- [Publish an NPM package in Typescript.](https://pauloe-me.medium.com/typescript-npm-package-publishing-a-beginners-guide-40b95908e69c)
 
 ### Scaling
 - [Microservices.](https://www.geeksforgeeks.org/microservices/)
