@@ -111,3 +111,4 @@ if (v != 27 && v != 28) {
 
 ## Others
 - [VS Code Profile.](https://vscode.dev/editor/profile/github/55c928f4dfd86ab1e14b3560ef1c70cb)
+- [How To Pick – And Solve – The Next Great Problem.](https://engineering.stanford.edu/news/how-pick-and-solve-next-great-problem)
